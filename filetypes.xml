@@ -1,27 +1,32 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="16">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="tpl" type="HTML" />
       <mapping pattern="form" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".evn" type="PLAIN_TEXT" />
-      <mapping pattern="DBMigrate.pp" type="PLAIN_TEXT" />
-      <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="DBMigrate.pp" type="PLAIN_TEXT" />
+      <mapping pattern="company" type="PLAIN_TEXT" />
+      <mapping pattern=".evn" type="PLAIN_TEXT" />
+      <mapping pattern="watch" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".foreverignore" type="PLAIN_TEXT" />
       <mapping pattern="guid" type="PLAIN_TEXT" />
       <mapping pattern="default_options" type="PLAIN_TEXT" />
-      <mapping ext="out" type="PLAIN_TEXT" />
-      <mapping ext="features" type="PLAIN_TEXT" />
-      <mapping ext="bak" type="PLAIN_TEXT" />
-      <mapping ext="erb" type="PLAIN_TEXT" />
-      <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping pattern="2" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping ext="opts" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
-      <mapping ext="3" type="PLAIN_TEXT" />
-      <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="erb" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
-      <removed_mapping ext="tpl" approved="true" type="Smarty" />
+      <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="jdade" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="features" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="3" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

@@ -23,6 +23,7 @@
       <mapping ext="jdade" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="features" type="PLAIN_TEXT" />
+      <mapping ext="9" type="PLAIN_TEXT" />
       <mapping ext="3" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />

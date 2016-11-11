@@ -6,6 +6,7 @@
       <mapping pattern="form" type="PLAIN_TEXT" />
       <mapping pattern="DBMigrate.pp" type="PLAIN_TEXT" />
       <mapping pattern="company" type="PLAIN_TEXT" />
+      <mapping pattern="elapse" type="PLAIN_TEXT" />
       <mapping pattern="watch" type="PLAIN_TEXT" />
       <mapping pattern=".evn" type="PLAIN_TEXT" />
       <mapping pattern=".foreverignore" type="PLAIN_TEXT" />
